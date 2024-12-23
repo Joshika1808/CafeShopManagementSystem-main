@@ -1,1 +1,2 @@
-# CafeShopManagementSystem-main
+# CafeShopManagementSystem
+ Cafe Shop Management System in JavaFX
